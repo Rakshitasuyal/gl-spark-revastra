@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e2c59f1-8102-4853-a509-6a89ea08692e" name="Changes" comment="" />
+    <list default="true" id="3e2c59f1-8102-4853-a509-6a89ea08692e" name="Changes" comment="reward-service completed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +17,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Rakshitasuyal&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Rakshitasuyal/gl-spark-revastra.git&quot;,
+    &quot;accountId&quot;: &quot;9c07893b-de73-4405-9ca1-c021816ced70&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -28,9 +42,11 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feat/reward-service",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/rakshita.suyal/Desktop/gl-spark-revastra",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
@@ -53,11 +69,44 @@
       <updated>1775553654215</updated>
       <workItem from="1775553655386" duration="437000" />
       <workItem from="1775554114127" duration="165000" />
+      <workItem from="1775555362377" duration="377000" />
+      <workItem from="1775555755932" duration="194000" />
     </task>
+    <task id="LOCAL-00001" summary="payment-service completed">
+      <option name="closed" value="true" />
+      <created>1775555441868</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775555441869</updated>
+    </task>
+    <task id="LOCAL-00002" summary="recycle-service completed">
+      <option name="closed" value="true" />
+      <created>1775555641691</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1775555641691</updated>
+    </task>
+    <task id="LOCAL-00003" summary="reward-service completed">
+      <option name="closed" value="true" />
+      <created>1775555853610</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1775555853611</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="payment-service completed" />
+    <MESSAGE value="recycle-service completed" />
+    <MESSAGE value="reward-service completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="reward-service completed" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
